@@ -1,5 +1,3 @@
-module github.com/seth-epps/hello-go
+module github.com/seth-epps/hello-tls
 
-go 1.18
-
-require github.com/gorilla/mux v1.8.0 // indirect
+go 1.22
